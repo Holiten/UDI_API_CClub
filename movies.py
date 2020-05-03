@@ -85,3 +85,4 @@ class Movie:
 # Code non executé dans le main // Phase de test
 if __name__ == "__main__":
     movies = get_movies_instance()
+    print(movies)
